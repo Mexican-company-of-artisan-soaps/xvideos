@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+#boton9 {
+	background-color:#9F0;
+	color:hsla(0,0%,100%,1)
+	padding:5px;
+	text-decoration:none;
+	   border-radius:15px 5px 8px 0;
+	   text-align:center;
+	   letter-spacing:0px;
+	   -moz-transition:all 0.05s;
+	   -webkit-transition:all 0.05s;
+	   -o-transition:all 0.05s;
+	   border-color:#9F0;
+	   } 
+#boton9:hover{letter-spacing:3px;
+                           background-color:#3F6;
+						   border-color:#3F6;
+						   overflow:hidden;
+						   }
+#boton9:active{
+	background-color:#FFF;
+	border-color:#FFF;
+	}
+.caja9 {
+	overflow:hidden;}
